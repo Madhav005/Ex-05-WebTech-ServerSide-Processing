@@ -121,10 +121,10 @@ def home(request):
         context['b'] =b
 
     return render(request, "cal/home.html", context)
-    ```
-    urls.py:
-    ```
-    from django.contrib import admin
+```
+urls.py:
+```
+from django.contrib import admin
 from django.urls import path
 from mathapp import views
 
