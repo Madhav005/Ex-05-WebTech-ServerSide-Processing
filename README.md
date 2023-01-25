@@ -137,6 +137,7 @@ urlpatterns = [
 ```
 
 # OUTPUT:
+![img](pyth.png)
 
 # RESULT:
 
